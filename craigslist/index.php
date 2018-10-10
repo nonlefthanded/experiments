@@ -1,12 +1,12 @@
-<h1>Craigslist "gigs"</h1>
+<h1>Craigslist Gigs</h1>
 
-<p>Use browser to get Craigslist "gigs."
+<p>Use browser to get Craigslist "gigs" search results, in JSON format.
 
 <h2>Sample URL's</h2>
 <ul>
   <li>
     <a href="gigs.php">
-      gigs.php | Portland | Wordpress
+      gigs.php (no vars) | Portland | Wordpress
     </a>
   </li>
 
